@@ -32,4 +32,13 @@ df_stats_limpo = df_kaggle.groupby('nome_join').agg({
     'Bloqueios': 'sum',
     'Time': 'first',
     'Idade': 'first'
-}).reset_index()      
+}).reset_index()     
+
+df_final = pd.merge(df_precos_limpo, df_stats_limpo, on='nome_join', how='inner')
+colunas_uteis = [
+    'Name', 'Idade', 'Position','Time', 'Value', 
+    'Gols', 'Assis.', 'xG', 'xAG', 'Bloqueios'
+]
+df_ml1 = df_final[colunas_uteis].copy()
+df_ml1['Idade'] = pd.to_numeric(df_ml1['Idade'], errors='coerce')
+df_ml1['Idade'] = df_ml1['Idade'].astype('Int64') 
