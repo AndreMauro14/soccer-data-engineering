@@ -10,4 +10,12 @@ try:
         df.to_csv("dados_transfermarkt_2024.csv", index=False) 
     
 except Exception as e:
-    print(f"erro na execução: {e}")    
+    print(f"erro na execução: {e}")
+    
+df_kaggle = pd.read_csv('database.csv')
+df_dadosFut = pd.read_csv("dados_transfermarkt_2024.csv")
+
+df_kaggle["nome_join"] = df_kaggle["Jogador"].str.lower().str.strip()
+df_kaggle['Idade'] = df_kaggle['Idade'].apply(lambda x: str(x).split('-')[0])
+df_dadosFut["nome_join"] = df_dadosFut["Name"].str.lower().str.strip()
+df_precos_limpo = df_dadosFut.drop_duplicates(subset=['nome_join'], keep='first')        
