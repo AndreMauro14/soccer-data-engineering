@@ -1,0 +1,515 @@
+Name,Idade,Position,Time,Value,Gols,Assis.,xG,xAG,Bloqueios
+Carlos Miguel,25,Goalkeeper,Corinthians,€4.00m,0,0,0.0,0.1,0.0
+Nicolás Acevedo,25,Defensive Midfield,Bahia,€4.00m,0,0,0.0,0.2,3.0
+Lucas Esquivel,22,Left-Back,Athletico Paranaense,€3.50m,0,4,0.4,4.3,28.0
+Zé Gabriel,25,Defensive Midfield,Vasco da Gama,€550k,0,0,0.7999999999999999,0.0,3.0
+Yago Pikachu,31,Right Winger,Fortaleza,€800k,2,4,3.7,2.0,18.0
+Fabrício,38,Goalkeeper,Internacional,,0,0,0.0,0.0,0.0
+Vitinho,25,Central Midfield,Red Bull Bragantino,€500k,3,3,4.6,3.1,30.0
+Bruno Pacheco,32,Left-Back,Fortaleza,€250k,1,1,0.30000000000000004,0.7,11.0
+Marcos Felipe,28,Goalkeeper,Bahia,€3.00m,0,0,0.0,0.0,0.0
+Mauricio,22,Attacking Midfield,Internacional,€12.00m,3,0,3.9,1.7000000000000002,10.0
+Alex Teixeira,34,Second Striker,Vasco da Gama,€175k,1,1,1.0,0.2,4.0
+Fernando,36,Defensive Midfield,Internacional,€500k,1,1,0.30000000000000004,0.7,17.0
+Gerson,26,Central Midfield,Flamengo,€18.00m,3,6,2.1,3.6,23.0
+Mayke,31,Right-Back,Palmeiras,€2.00m,1,0,1.2,0.8,13.0
+Allan,27,Defensive Midfield,Flamengo,€1.50m,0,1,0.0,0.5,16.0
+Ivan Cavaleiro,30,Left Winger,Red Bull Bragantino,€500k,0,0,0.30000000000000004,0.1,0.0
+Felipe Teresa,18,Right Winger,Flamengo,,1,0,0.3,0.0,0.0
+Luis Miguel,19,Left Winger,Vitória,,0,0,0.0,0.0,0.0
+Luiz Fernando,27,Left Winger,Atlético Goianiense,€1.80m,8,0,5.5,1.0,37.0
+Adryelson,26,Centre-Back,Botafogo (RJ),€3.00m,1,0,0.2,0.3,5.0
+Fábio,43,Goalkeeper,Fluminense,€75k,0,0,0.3,0.2,4.0
+Alan Ruschel,34,Left-Back,Juventude,€100k,1,1,0.7,1.6,30.0
+João Victor,25,Centre-Back,Vasco da Gama,€5.00m,1,1,0.1,0.7,23.0
+Franco Cristaldo,27,Attacking Midfield,Grêmio,€4.00m,6,2,5.2,5.4,20.0
+Adson,23,Right Winger,Vasco da Gama,€2.50m,2,1,1.5,2.6,15.0
+Júnior Alonso,31,Centre-Back,Atlético Mineiro,€3.00m,1,0,0.2,0.0,5.0
+Ronaldo,27,Defensive Midfield,Atlético Goianiense,€1.00m,2,2,0.8,0.30000000000000004,9.0
+Nathan,28,Right-Back,Grêmio,€1.50m,0,0,0.6,0.1,4.0
+Hyoran,31,Attacking Midfield,Internacional,€700k,0,0,0.9,0.1,4.0
+Agustín Rogel,26,Centre-Back,Internacional,€500k,0,1,1.1,0.0,7.0
+Ronie Carrillo,27,Centre-Forward,Juventude,€500k,1,0,1.1,0.2,3.0
+Matheus Rossetto,27,Central Midfield,Fortaleza,€1.50m,0,0,0.0,0.2,11.0
+Rodrigo Garro,26,Attacking Midfield,Corinthians,€12.00m,10,10,6.1000000000000005,7.2,29.0
+Everaldo,30,Centre-Forward,Vitória,€400k,2,0,1.0,0.1,2.0
+Camutanga,30,Centre-Back,Vitória,€300k,0,0,0.30000000000000004,0.0,7.0
+Abner,20,Centre-Back,Juventude,€1.00m,0,0,0.0,0.0,1.0
+Jhonata Robert,24,Right Winger,Criciúma,€1.80m,0,0,0.2,0.0,2.0
+Manoel,34,Centre-Back,Fluminense,€150k,0,0,0.2,0.1,14.0
+Marinho,33,Right Winger,Fortaleza,€300k,4,3,2.2,1.8,20.0
+Lucas Mineiro,28,Defensive Midfield,Cuiabá,€1.00m,0,0,0.6000000000000001,0.1,43.0
+Lautaro Díaz,26,Centre-Forward,Cruzeiro,€1.50m,1,0,2.4,0.5,2.0
+Gregore,30,Defensive Midfield,Botafogo (RJ),€4.50m,3,2,1.2,1.5,37.0
+Isaac,19,Centre-Forward,Fluminense,€700k,0,0,0.30000000000000004,0.0,3.0
+Gustavo Scarpa,30,Attacking Midfield,Atlético Mineiro,€6.00m,4,4,4.0,3.6,12.0
+Braian Aguirre,24,Right-Back,Internacional,€2.50m,0,0,0.1,0.5,3.0
+Marlon,26,Left-Back,Cruzeiro,€4.00m,0,1,0.5,1.9000000000000001,38.0
+Paulinho,35,Right-Back,Corinthians,€400k,7,1,5.8,1.3,13.0
+Jorginho,33,Attacking Midfield,Atlético Goianiense,,0,1,0.0,0.1,1.0
+Robert Renan,20,Centre-Back,Internacional,€9.00m,0,1,0.6000000000000001,0.2,10.0
+Felipe Vieira,,Left-Back,Fluminense,€250k,0,0,0.0,0.0,1.0
+Pedro Paranhos,18,Centre-Forward,Atlético Goianiense,€100k,0,0,0.0,0.1,0.0
+Lucas Romero,29,Defensive Midfield,Cruzeiro,€2.80m,0,2,0.5,0.4,29.0
+Thiago Silva,39,Centre-Back,Fluminense,€600k,0,0,0.5,0.7000000000000001,10.0
+Pablo Maia,22,Defensive Midfield,São Paulo,€7.00m,0,0,0.2,0.1,4.0
+Gabriel,31,Goalkeeper,Juventude,€500k,1,2,1.3,0.2,53.0
+Eduardo Melo,23,Centre-Forward,Criciúma,€75k,0,0,0.0,0.0,0.0
+Jhon Arias,26,Right Winger,Fluminense,€15.00m,6,3,6.2,3.5,34.0
+Gabriel Barbosa,27,Centre-Forward,Flamengo,€4.00m,4,1,5.4,0.9,2.0
+Alexsander,20,Defensive Midfield,Fluminense,€6.00m,0,1,0.4,0.8,13.0
+Hércules,23,Central Midfield,Fortaleza,€12.00m,4,1,1.0,1.5,33.0
+Hugo Souza,25,Goalkeeper,Corinthians,€10.00m,0,0,0.0,0.0,0.0
+Claudinho,23,Right-Back,Criciúma,€1.70m,2,3,0.8,3.5,40.0
+Juninho Capixaba,26,Left-Back,Red Bull Bragantino,€5.00m,2,0,1.7000000000000002,0.6,28.0
+Talles Magno,22,Left Winger,Corinthians,€4.50m,2,1,2.5,0.7000000000000001,10.0
+Emerson Rodríguez,23,Left Winger,Vasco da Gama,€1.20m,2,0,1.4,0.4,12.0
+Gustavo Sauer,31,Right Winger,Cuiabá,€550k,0,0,0.5,0.2,6.0
+Júnior Santos,29,Right Winger,Botafogo (RJ),€3.50m,4,1,6.2,1.4000000000000001,11.0
+Brahian Palacios,21,Right Winger,Atlético Mineiro,€1.20m,2,3,2.3000000000000003,1.1,12.0
+Ruan,18,Right Midfield,Juventude,€1.00m,0,0,0.30000000000000004,0.0,10.0
+Jean Meneses,31,Left Winger,Vasco da Gama,€1.60m,0,0,0.0,0.1,5.0
+Bruno Gomes,23,Right-Back,Internacional,€5.00m,1,2,0.5,1.0,30.0
+Alan Empereur,30,Centre-Back,Cuiabá,€750k,0,0,0.5,1.1,20.0
+Damián Bobadilla,22,Central Midfield,São Paulo,€4.00m,1,0,0.7000000000000001,0.7,16.0
+Marcos Antônio,24,Central Midfield,São Paulo,€9.00m,0,0,0.0,0.30000000000000004,11.0
+Fabinho,22,Defensive Midfield,Palmeiras,€5.00m,1,0,0.2,0.2,10.0
+Gabriel Veron,21,Right Winger,Cruzeiro,€3.00m,6,2,3.7,1.4000000000000001,15.0
+Ignacio Laquintana,25,Right Winger,Red Bull Bragantino,€2.00m,1,0,0.7,0.0,1.0
+Yuri Alberto,23,Centre-Forward,Corinthians,€22.00m,15,4,10.7,1.6,11.0
+Benjamín Kuscevic,27,Centre-Back,Fortaleza,€2.00m,2,0,1.3,0.4,38.0
+Iago,27,Left-Back,Bahia,€3.50m,0,0,0.7999999999999999,1.1,7.0
+Pedro,26,Centre-Forward,Flamengo,€18.00m,11,5,10.6,2.2,15.0
+Jacob Montes,25,Attacking Midfield,Botafogo (RJ),€150k,1,0,0.1,0.0,0.0
+Isidro Pitta,24,Centre-Forward,Cuiabá,€7.50m,7,2,9.700000000000001,3.7,8.0
+Ruan Pablo,16,Left Winger,Bahia,€5.00m,0,0,0.0,0.0,0.0
+Tiago,19,Left Winger,Bahia,€3.00m,0,0,0.3,0.4,1.0
+Ronald,21,Defensive Midfield,Grêmio,€700k,0,2,0.5,1.3,24.0
+Matheus Araújo,22,Attacking Midfield,Corinthians,€1.50m,0,0,0.0,0.0,0.0
+Gustavo Prado,18,Right Winger,Internacional,€3.00m,1,0,1.3,1.5,14.0
+Ryan Francisco,18,Centre-Forward,São Paulo,€6.00m,0,0,0.0,0.0,0.0
+Alex Telles,31,Left-Back,Botafogo (RJ),€3.00m,0,1,0.8999999999999999,1.0,9.0
+Bruno Fuchs,25,Centre-Back,Atlético Mineiro,€4.50m,0,1,0.7,1.8,34.0
+Samuel Xavier,33,Right-Back,Fluminense,€250k,0,2,0.7000000000000001,1.9000000000000001,19.0
+Renzo Saravia,30,Right-Back,Atlético Mineiro,€1.50m,0,0,0.30000000000000004,1.0,33.0
+Rubens,22,Goalkeeper,Atlético Mineiro,,0,1,0.9,1.4000000000000001,15.0
+Neris,31,Centre-Back,Cruzeiro,€300k,1,0,0.30000000000000004,0.0,23.0
+Hugo Moura,26,Defensive Midfield,Vasco da Gama,€1.80m,1,4,1.7,0.9,26.0
+Raul,27,Goalkeeper,Red Bull Bragantino,€100k,1,1,0.2,0.9,14.0
+Talisson,21,Left Winger,Red Bull Bragantino,€500k,0,0,0.1,0.0,0.0
+Anderson,26,Goalkeeper,Cruzeiro,€450k,0,0,0.0,0.0,0.0
+Miguel Trauco,31,Left-Back,Criciúma,€500k,2,0,0.2,0.4,14.0
+Bastos,33,Centre-Back,Botafogo (RJ),€700k,3,0,1.8,0.1,27.0
+Pedro Henrique,33,Centre-Back,Corinthians,€450k,2,1,1.4000000000000001,0.6000000000000001,30.0
+Tomás Cardona,28,Centre-Back,Fortaleza,€1.20m,1,0,0.5,0.0,37.0
+Nathan Mendes,21,Right-Back,Red Bull Bragantino,€1.00m,0,1,0.30000000000000004,0.9,11.0
+Lincoln,25,Attacking Midfield,Red Bull Bragantino,€3.50m,3,2,2.5,2.7,22.0
+Miguel Monsalve,20,Attacking Midfield,Grêmio,€4.00m,3,1,2.7,0.8,5.0
+Imanol Machuca,24,Right Winger,Fortaleza,,1,1,0.7000000000000001,0.9,5.0
+Pablo Vegetti,35,Centre-Forward,Vasco da Gama,€700k,12,2,12.8,2.6,21.0
+Carlos de Pena,32,Left Winger,Bahia,€1.00m,0,3,0.8,2.3000000000000003,9.0
+Bruninho,21,Attacking Midfield,Red Bull Bragantino,€1.00m,0,1,0.1,0.1,0.0
+Danilo Fernandes,36,Goalkeeper,Bahia,,0,0,0.0,0.0,0.0
+Fernando Sobral,29,Central Midfield,Cuiabá,€1.80m,1,2,1.1,2.5,33.0
+Óscar Romero,31,Attacking Midfield,Botafogo (RJ),€900k,1,4,1.4000000000000001,1.4,7.0
+Titi,36,Centre-Back,Fortaleza,€100k,1,0,0.2,0.5,30.0
+Jamal Lewis,26,Left-Back,São Paulo,€2.00m,0,1,0.0,0.4,3.0
+Caio Alexandre,25,Defensive Midfield,Bahia,€7.00m,2,0,0.8,2.3000000000000003,27.0
+Eduardo Vargas,34,Centre-Forward,Atlético Mineiro,€200k,8,2,5.2,1.3,10.0
+Gabriel Carvalho,16,Right Winger,Internacional,€12.00m,1,3,3.4000000000000004,3.8,37.0
+Jefferson Savarino,27,Attacking Midfield,Botafogo (RJ),€9.00m,8,7,4.8,6.6,9.0
+Gabriel Delfim,22,Goalkeeper,Atlético Mineiro,€300k,0,0,0.0,0.0,0.0
+Christian,23,Central Midfield,Athletico Paranaense,€10.00m,1,0,1.8,1.7,15.0
+Thiago Heleno,35,Centre-Back,Athletico Paranaense,€200k,0,1,1.0,0.7000000000000001,40.0
+Jeffinho,24,Left Winger,Botafogo (RJ),€4.50m,1,1,1.8,0.4,1.0
+Carlos Alberto,22,Right Winger,Botafogo (RJ),€2.00m,1,0,1.6,0.2,4.0
+Biro,20,Right Winger,Corinthians,€2.30m,0,0,0.1,0.0,0.0
+João Lucas,26,Right-Back,Juventude,€1.50m,1,6,0.9,4.2,28.0
+Matheus Dias,27,Defensive Midfield,Internacional,€1.50m,0,0,0.0,0.0,0.0
+Rafael,34,Goalkeeper,Botafogo (RJ),€400k,0,0,0.0,0.0,0.0
+Zé Marcos,26,Centre-Back,Juventude,€900k,0,0,0.9,0.1,25.0
+Tiquinho Soares,33,Centre-Forward,Botafogo (RJ),€900k,5,3,6.7,2.1,10.0
+Emersonn,19,Centre-Forward,Athletico Paranaense,€4.00m,0,0,0.9,0.6,2.0
+Matheus Gonçalves,18,Right Winger,Flamengo,€9.00m,2,0,1.7000000000000002,0.9,7.0
+Jean Lucas,25,Central Midfield,Bahia,€12.00m,3,6,5.2,2.5,33.0
+Weverton,21,Goalkeeper,Cruzeiro,€700k,0,0,0.0,0.0,0.0
+Gabriel Fuentes,27,Left-Back,Fluminense,€1.70m,0,0,0.0,0.0,1.0
+Luan Cândido,23,Left-Back,Red Bull Bragantino,€3.00m,1,0,1.3,0.1,27.0
+Lucas Freitas,23,Centre-Back,Juventude,€1.00m,0,0,0.2,0.1,23.0
+Walace,29,Defensive Midfield,Cruzeiro,€4.50m,0,0,0.1,0.0,0.0
+Gilberto,34,Right-Back,Juventude,€2.50m,4,2,3.6999999999999997,2.1,16.0
+Mateo Gamarra,23,Centre-Back,Athletico Paranaense,€2.00m,0,0,1.2,0.2,28.0
+Everton Ribeiro,35,Attacking Midfield,Bahia,€1.20m,2,5,1.2,4.3,22.0
+Cicinho,35,Right-Back,Bahia,,0,0,0.0,0.2,2.0
+Lucas Cunha,27,Centre-Back,Red Bull Bragantino,€1.50m,0,0,0.1,0.1,9.0
+Rafael Cabral,33,Goalkeeper,Grêmio,€200k,0,0,0.0,0.0,0.0
+Giorgian de Arrascaeta,29,Attacking Midfield,Flamengo,€15.00m,5,5,2.2,2.5,13.0
+Aníbal Moreno,24,Defensive Midfield,Palmeiras,€11.00m,1,1,0.9,1.1,26.0
+Alexandro Bernabei,23,Left-Back,Internacional,€6.00m,3,5,1.2,4.9,26.0
+Nathan Fernandes,19,Right Winger,Grêmio,€4.00m,0,0,1.4,0.0,6.0
+Du Queiroz,24,Central Midfield,Grêmio,€1.50m,0,0,0.9999999999999999,0.4,9.0
+Rômulo,20,Centre-Forward,Atlético Mineiro,€30.00m,1,0,0.5,0.5,8.0
+David Terans,29,Attacking Midfield,Fluminense,€1.00m,0,0,0.2,0.0,4.0
+Paulo Henrique,27,Right-Back,Vasco da Gama,€6.00m,1,0,1.8,1.6,36.0
+Philippe Coutinho,32,Attacking Midfield,Vasco da Gama,€3.50m,2,1,2.1,0.9,7.0
+Charles Aránguiz,35,Central Midfield,Internacional,€600k,0,0,0.39999999999999997,0.0,4.0
+Gustavo Gómez,30,Centre-Back,Palmeiras,€4.00m,1,2,3.7,1.7999999999999998,35.0
+Rossi,30,Right Winger,Vasco da Gama,€400k,0,1,0.0,0.7,10.0
+Maycon,26,Central Midfield,Corinthians,€2.00m,0,0,0.0,0.0,1.0
+Adriel,23,Goalkeeper,Bahia,€800k,0,0,0.0,0.0,0.0
+Walter Kannemann,33,Centre-Back,Grêmio,€400k,0,2,0.6000000000000001,0.8,16.0
+Caio Paulista,26,Left-Back,Palmeiras,€2.00m,0,0,0.4,0.7,15.0
+Carlinhos,27,Centre-Forward,Flamengo,€1.00m,2,0,2.4,0.2,0.0
+Hugo,26,Left-Back,Corinthians,€2.00m,0,3,1.1,1.1,22.0
+Gabriel Mercado,37,Centre-Back,Internacional,€150k,1,0,0.30000000000000004,0.6,7.0
+Vágner Love,39,Centre-Forward,Atlético Goianiense,,1,0,1.5,0.0,3.0
+Sergio Rochet,31,Goalkeeper,Internacional,€2.00m,0,0,0.0,0.0,0.0
+Matheus Alexandre,25,Right-Back,Cuiabá,€1.20m,1,0,0.30000000000000004,0.6000000000000001,39.0
+Santiago Longo,26,Defensive Midfield,São Paulo,€3.00m,0,0,0.0,0.0,4.0
+Bruno Tabata,27,Right Winger,Internacional,€2.00m,2,3,2.5,2.5,16.0
+Pablo,31,Centre-Back,Athletico Paranaense,€500k,3,2,3.5,1.8,7.0
+Diogo Barbosa,31,Left-Back,Fluminense,€250k,0,0,0.0,0.6000000000000001,9.0
+Tchê Tchê,31,Central Midfield,Botafogo (RJ),€1.00m,0,0,0.4,2.8000000000000003,10.0
+Patryck,21,Left-Back,São Paulo,€1.50m,0,0,0.0,0.1,5.0
+Endrick,17,Centre-Forward,Palmeiras,€25.00m,0,0,1.1,0.7,5.0
+Luighi,18,Centre-Forward,Palmeiras,€5.00m,1,0,1.2,0.0,1.0
+Yannick Bolasie,34,Centre-Forward,Criciúma,€200k,8,4,7.3,1.5,19.0
+Zé Rafael,30,Central Midfield,Palmeiras,€2.50m,0,2,0.4,1.8,10.0
+Calebe,24,Attacking Midfield,Fortaleza,€2.00m,0,0,0.2,0.2,0.0
+Osvaldo,37,Right Winger,Vitória,€100k,2,0,2.3000000000000003,1.6,10.0
+Helinho,24,Right Winger,Red Bull Bragantino,€6.50m,7,2,3.3,2.1,18.0
+Vitor Hugo,33,Centre-Back,Bahia,€600k,0,0,0.0,0.0,0.0
+Yan Souto,22,Centre-Back,Juventude,€500k,1,0,0.0,0.1,4.0
+Bruno Tubarão,29,Right Winger,Atlético Goianiense,€400k,0,0,0.30000000000000004,1.1,15.0
+Léo Gamalho,38,Centre-Forward,Vitória,€100k,0,0,0.0,0.0,0.0
+Otávio,29,Defensive Midfield,Atlético Mineiro,€2.00m,0,0,0.0,0.2,32.0
+Fábio Soares,19,Left Winger,Vitória,€50k,0,0,0.0,0.0,3.0
+Cuiabano,21,Left-Back,Grêmio,€8.00m,4,1,1.7000000000000002,1.4,25.0
+Carlos Eduardo,19,Right Winger,Atlético Mineiro,€500k,3,3,3.9000000000000004,1.7000000000000002,17.0
+Felipe Melo,40,Defensive Midfield,Fluminense,,0,0,0.0,0.0,5.0
+Gabriel Menino,23,Central Midfield,Palmeiras,€6.00m,1,0,2.1,1.4000000000000001,16.0
+André Luis,26,Right Winger,Cuiabá,€700k,0,0,0.4,0.2,5.0
+Maguinho,31,Right-Back,Atlético Goianiense,€50k,0,1,0.6000000000000001,1.2000000000000002,17.0
+Helibelton Palacios,31,Right-Back,Cruzeiro,€450k,0,0,0.0,0.0,1.0
+Higor Meritão,29,Defensive Midfield,Criciúma,€900k,2,0,1.2,0.1,17.0
+Luis Otávio,17,Defensive Midfield,Internacional,€2.50m,0,0,0.0,0.0,0.0
+Luiz Gustavo,36,Centre-Back,São Paulo,€300k,2,1,1.2000000000000002,0.7000000000000001,22.0
+Rafael Haller,24,Right-Back,Atlético Goianiense,€400k,0,0,0.0,0.0,1.0
+Agustín Rossi,28,Goalkeeper,Flamengo,€10.00m,0,0,0.0,0.1,0.0
+Luiz Henrique,23,Right Winger,Botafogo (RJ),€24.00m,7,3,6.7,3.6,38.0
+Igor Gomes,25,Attacking Midfield,Atlético Mineiro,€3.00m,2,4,2.1999999999999997,1.1,34.0
+Joaquín Piquerez,25,Left-Back,Palmeiras,€14.00m,2,0,1.9,1.9,20.0
+Lucas Halter,23,Centre-Back,Botafogo (RJ),€2.00m,1,0,0.30000000000000004,0.1,8.0
+David Luiz,37,Centre-Back,Flamengo,€200k,3,0,1.9000000000000001,0.4,19.0
+Jadsom,22,Defensive Midfield,Red Bull Bragantino,€3.20m,0,1,0.1,0.6000000000000001,15.0
+Bruno Henrique,34,Central Midfield,Internacional,€350k,7,2,7.7,2.2,43.0
+Léo Pereira,28,Centre-Back,Flamengo,€10.00m,0,0,0.6,0.9,22.0
+Walisson Maia,32,Centre-Back,Criciúma,€25k,0,1,0.2,0.6,12.0
+João Carlos,22,Right Winger,Criciúma,€350k,0,0,0.1,0.0,0.0
+Alexander Barboza,29,Centre-Back,Botafogo (RJ),€5.00m,0,1,1.5,0.9,27.0
+Leonardo Godoy,28,Right-Back,Athletico Paranaense,€1.70m,1,2,0.4,1.0,17.0
+Luiz Felipe,30,Centre-Back,Atlético Goianiense,€350k,1,0,0.8999999999999999,0.0,17.0
+Nenê,42,Attacking Midfield,Juventude,€100k,3,4,1.6,4.3,8.0
+João Marcelo,23,Centre-Back,Cruzeiro,€4.50m,0,2,0.8,0.9,34.0
+Dodi,28,Defensive Midfield,Grêmio,€700k,0,2,0.8,1.1,29.0
+Rodrigo Caio,30,Centre-Back,Grêmio,,0,0,0.0,0.0,12.0
+Wilker Ángel,31,Centre-Back,Criciúma,€150k,1,0,0.5,0.0,27.0
+Martinelli,22,Defensive Midfield,Fluminense,€14.00m,1,1,1.0,1.2,41.0
+Mayk,24,Left-Back,Grêmio,€500k,0,0,0.1,0.0,9.0
+Vanderlan,21,Left-Back,Palmeiras,€3.50m,0,3,0.4,2.5,10.0
+André Ramalho,32,Centre-Back,Corinthians,€1.20m,0,1,0.2,0.30000000000000004,20.0
+Marquinhos,21,Central Midfield,Fluminense,,0,1,1.0,2.3000000000000003,21.0
+Lucas Villalba,29,Centre-Back,Cruzeiro,€1.80m,0,0,0.2,0.2,16.0
+Léo Mana,20,Right-Back,Corinthians,€700k,0,0,0.0,0.0,5.0
+Cristian Pavón,28,Right Winger,Grêmio,€1.70m,1,3,2.7,2.3,12.0
+Vitão,24,Centre-Back,Internacional,€10.00m,0,0,1.4000000000000001,0.0,23.0
+Tobias Figueiredo,30,Centre-Back,Criciúma,€750k,1,0,0.2,0.4,40.0
+Eric Ramires,23,Central Midfield,Red Bull Bragantino,€4.50m,2,2,2.1,0.2,10.0
+Yony González,29,Right Winger,Atlético Goianiense,€500k,0,0,0.2,0.2,5.0
+Matheus Mendes,25,Goalkeeper,Atlético Mineiro,€300k,0,0,0.0,0.0,0.0
+Rony,28,Centre-Forward,Palmeiras,€5.00m,4,2,8.0,2.6,11.0
+Erick,27,Right Winger,Juventude,€1.50m,6,4,5.8,4.2,50.0
+Henry Mosquera,22,Left Winger,Red Bull Bragantino,€2.50m,1,2,3.8,2.1,9.0
+Emanuel Brítez,32,Centre-Back,Fortaleza,€600k,0,2,1.1,2.0,33.0
+Juliano,16,Centre-Forward,Red Bull Bragantino,,0,0,0.0,0.0,0.0
+Welington,23,Left-Back,São Paulo,€3.00m,0,1,0.1,0.8,10.0
+Gustavo Nunes,18,Left Winger,Grêmio,€10.00m,3,1,1.9,1.3,14.0
+Lucas Moura,31,Right Winger,São Paulo,€2.50m,10,6,4.9,2.9,17.0
+Mycael,20,Goalkeeper,Athletico Paranaense,€2.50m,0,0,0.0,0.0,0.0
+William,29,Right-Back,Cruzeiro,€4.50m,5,5,4.5,4.6,52.0
+Éder,37,Centre-Forward,Criciúma,,0,0,0.9,1.1,2.0
+Agustín Canobbio,25,Left Winger,Athletico Paranaense,€6.00m,4,1,3.4000000000000004,2.3,22.0
+Eduardo Vinícius,19,Defensive Midfield,Cuiabá,€50k,0,0,0.0,0.0,0.0
+Danielzinho,28,Attacking Midfield,Atlético Goianiense,€1.50m,0,0,0.0,0.1,0.0
+Thiaguinho,27,Right Winger,Juventude,€1.00m,0,0,0.0,0.0,5.0
+Enner Valencia,34,Centre-Forward,Internacional,€1.50m,3,1,4.3,0.4,7.0
+Guilherme,22,Left-Back,Red Bull Bragantino,,1,1,0.5,0.2,9.0
+Keno,34,Left Winger,Fluminense,€400k,1,1,2.1,0.9,11.0
+Lucas Arcanjo,25,Goalkeeper,Vitória,€2.50m,0,0,0.0,0.0,0.0
+Lawan,19,Centre-Forward,Vitória,,0,0,0.30000000000000004,0.4,0.0
+Rhaldney,25,Central Midfield,Atlético Goianiense,€1.00m,0,1,1.1,0.8,29.0
+Luciano,30,Centre-Forward,São Paulo,€1.50m,11,2,7.0,2.2,23.0
+Dimitri Payet,37,Attacking Midfield,Vasco da Gama,€500k,3,3,1.7000000000000002,2.5,2.0
+Nicolás de la Cruz,26,Central Midfield,Flamengo,€9.00m,2,3,1.6,2.6,16.0
+Wellington Rato,31,Right Winger,São Paulo,€550k,1,5,2.2,3.5,7.0
+Kanu,27,Centre-Back,Bahia,€3.00m,0,0,0.30000000000000004,0.0,36.0
+Lucas Evangelista,28,Central Midfield,Red Bull Bragantino,€4.00m,2,3,2.5,1.6,29.0
+Kaique Rocha,23,Centre-Back,Athletico Paranaense,€1.50m,0,1,1.4,1.3,33.0
+Eduardo Sasha,32,Centre-Forward,Red Bull Bragantino,€1.20m,8,4,5.4,2.6,12.0
+Jonathan Cafu,32,Right Winger,Cuiabá,€100k,1,2,2.3000000000000003,1.2,10.0
+Marcos Victor,22,Centre-Back,Athletico Paranaense,€450k,0,0,0.0,0.0,0.0
+Shaylon,26,Attacking Midfield,Atlético Goianiense,€1.00m,2,2,3.9000000000000004,5.7,17.0
+Álvaro Barreal,23,Left Winger,Cruzeiro,€7.00m,2,4,2.3000000000000003,1.5,39.0
+Dudu,24,Defensive Midfield,Vitória,€450k,0,0,1.3,0.5,7.0
+Guilherme Estrella,19,Attacking Midfield,Vasco da Gama,€1.00m,1,0,0.4,0.0,1.0
+Alisson,28,Central Midfield,Criciúma,€1.30m,2,1,2.7,1.3,17.0
+Zeca,29,Right-Back,Vitória,€600k,0,0,0.1,0.2,4.0
+Mauricio Lemos,28,Centre-Back,Atlético Mineiro,€2.00m,0,0,0.1,0.1,5.0
+Diego Costa,35,Centre-Forward,Grêmio,€400k,1,2,0.8999999999999999,0.5,4.0
+Matías Lacava,21,Right Winger,Atlético Goianiense,€550k,0,0,0.7,0.4,2.0
+Pedro Rangel,23,Goalkeeper,Atlético Goianiense,€500k,0,0,0.0,0.0,0.0
+Guilherme Arana,27,Left-Back,Atlético Mineiro,€7.00m,1,1,0.5,1.0,13.0
+Lyanco,27,Centre-Back,Atlético Mineiro,€5.00m,0,0,0.2,0.2,15.0
+Wanderson,29,Left Winger,Internacional,€3.50m,2,2,2.1,2.3000000000000003,9.0
+Alan Patrick,33,Attacking Midfield,Internacional,€2.50m,8,3,7.2,8.200000000000001,17.0
+Pedrinho,26,Right Winger,Atlético Mineiro,€8.00m,0,0,0.0,0.4,2.0
+Gonzalo Freitas,32,Defensive Midfield,Atlético Goianiense,€150k,0,0,0.6000000000000001,0.2,7.0
+Cássio,36,Goalkeeper,Corinthians,€300k,0,0,0.0,0.0,0.0
+Kaio Jorge,22,Centre-Forward,Cruzeiro,€22.00m,2,2,5.4,1.3,8.0
+Wesley,25,Left Winger,Internacional,€5.00m,8,2,6.1,5.7,56.0
+Derik Lacerda,24,Centre-Forward,Cuiabá,€1.50m,4,0,3.3,2.1,18.0
+Jonathan,31,Right-Back,Criciúma,€150k,0,1,0.1,0.8,11.0
+Danilo Barbosa,28,Defensive Midfield,Botafogo (RJ),€2.20m,3,1,1.4,0.4,15.0
+Gabriel Barros,22,Right Winger,Atlético Goianiense,€200k,0,0,0.0,0.0,1.0
+Igor Jesus,23,Defensive Midfield,Botafogo (RJ),€3.50m,0,1,0.6,0.2,2.0
+Alan Franco,25,Central Midfield,Atlético Mineiro,€4.00m,0,0,1.7000000000000002,2.1,27.0
+Kaiki,21,Left-Back,Cruzeiro,€10.00m,1,0,0.4,1.0,15.0
+Robert,19,Left Winger,Cruzeiro,€2.20m,0,1,0.2,0.30000000000000004,4.0
+Gustavo,31,Goalkeeper,Criciúma,€300k,0,0,0.1,0.0,0.0
+Ganso,34,Attacking Midfield,Fluminense,€350k,3,6,2.5,3.4,15.0
+Léo Jardim,29,Goalkeeper,Vasco da Gama,€7.00m,0,0,0.0,0.0,0.0
+Agustín Giay,20,Right-Back,Palmeiras,€11.00m,0,0,0.5,0.2,7.0
+Fabrizio Peralta,22,Defensive Midfield,Cruzeiro,€800k,0,0,0.1,0.1,3.0
+Janderson,24,Centre-Forward,Vitória,€3.50m,4,0,3.3000000000000003,1.6,18.0
+Kauan,19,Central Midfield,Fortaleza,€1.00m,0,0,0.0,0.0,1.0
+Danilo Boza,25,Centre-Back,Juventude,€1.50m,3,1,2.8,0.30000000000000004,40.0
+Erick Marcus,20,Right Winger,Vasco da Gama,€3.50m,0,0,0.2,0.30000000000000004,3.0
+Wesley Gasolina,24,Right-Back,Cruzeiro,€800k,0,0,0.0,0.1,0.0
+Emiliano Rodríguez,20,Centre-Forward,Atlético Goianiense,€600k,0,0,2.9,0.6000000000000001,8.0
+Santiago Arias,32,Right-Back,Bahia,€1.50m,0,1,0.5,3.1,14.0
+Juan Sforza,22,Defensive Midfield,Vasco da Gama,€1.50m,1,0,0.7000000000000001,0.1,19.0
+Thaciano,28,Attacking Midfield,Bahia,€1.20m,7,2,5.6000000000000005,2.4,16.0
+Robert Rojas,27,Centre-Back,Vasco da Gama,€1.50m,0,0,0.0,0.0,0.0
+Dudu Vieira,30,Central Midfield,Juventude,,0,0,0.0,0.0,6.0
+John Kennedy,21,Centre-Forward,Fluminense,€6.00m,0,0,1.2000000000000002,0.0,6.0
+Daniel Jr,21,Attacking Midfield,Vitória,€600k,0,0,0.1,0.4,0.0
+Ayrton Lucas,26,Left-Back,Flamengo,€5.00m,3,3,1.3,2.0,23.0
+Kauê,19,Central Midfield,Botafogo (RJ),€2.00m,1,0,0.1,0.0,3.0
+Sergio Palacios,19,Centre-Back,Red Bull Bragantino,€900k,0,0,0.0,0.0,0.0
+Carlos Alcaraz,21,Central Midfield,Flamengo,€15.00m,2,1,3.1,0.5,13.0
+Diego Gonçalves,30,Left Winger,Juventude,€500k,1,0,0.2,0.0,3.0
+Gustavo Henrique,31,Centre-Back,Corinthians,€800k,1,0,0.8,0.2,20.0
+Clayson,29,Left Winger,Cuiabá,€800k,5,1,2.7,1.1,27.0
+Clayton,25,Centre-Forward,Vasco da Gama,€8.00m,0,0,0.9,0.3,5.0
+Werton,20,Left Winger,Flamengo,€750k,0,0,0.1,0.0,1.0
+Jadson,30,Right Winger,Juventude,€250k,1,5,1.8,3.2,33.0
+Matheus Bidu,24,Left-Back,Corinthians,€3.00m,2,1,0.9,1.0,20.0
+Jean Mota,30,Central Midfield,Vitória,€500k,1,0,0.4,0.8,1.0
+Jandrei,31,Goalkeeper,São Paulo,€200k,0,0,0.0,0.0,1.0
+Bruno Zapelli,21,Attacking Midfield,Athletico Paranaense,€4.50m,0,5,3.7,4.4,16.0
+Yeferson Soteldo,26,Left Winger,Grêmio,€4.00m,5,2,2.9,4.6,10.0
+Felipe Jonatan,26,Left-Back,Fortaleza,€2.00m,0,0,0.6,0.6000000000000001,14.0
+Luiz Araújo,27,Right Winger,Flamengo,€7.00m,4,5,3.3000000000000003,4.5,25.0
+Jemerson,31,Centre-Back,Atlético Mineiro,€700k,1,0,0.7,0.0,23.0
+Gonzalo Plata,23,Right Winger,Flamengo,€8.00m,1,0,1.6,1.8,11.0
+Lucas Esteves,23,Left-Back,Vitória,€1.80m,1,4,1.6,2.8,29.0
+Mariano,38,Right-Back,Atlético Mineiro,€75k,0,0,0.0,0.6000000000000001,3.0
+Mateo Ponte,20,Right-Back,Botafogo (RJ),€2.00m,3,0,1.4,0.9,8.0
+Chumbinho,20,Defensive Midfield,Red Bull Bragantino,,0,0,0.1,0.0,1.0
+Randerson,20,Defensive Midfield,Atlético Goianiense,,0,0,0.0,0.0,0.0
+Caio Maia,19,Left Winger,Atlético Mineiro,,0,0,0.2,0.0,0.0
+Alejo Cruz,23,Left Winger,Atlético Goianiense,€400k,2,2,2.5,3.4,24.0
+Derek,26,Centre-Forward,Atlético Goianiense,€500k,3,1,3.9,1.8,13.0
+Kervin Andrade,19,Attacking Midfield,Fortaleza,€1.50m,1,1,1.0,1.1,7.0
+Rodrigo,20,Centre-Back,São Paulo,€50k,0,0,0.4,0.0,3.0
+Rezende,29,Defensive Midfield,Bahia,€800k,0,0,0.5,0.0,8.0
+Giovane,20,Centre-Forward,Corinthians,€12.00m,1,0,1.0,0.1,0.0
+Richard Ríos,23,Defensive Midfield,Palmeiras,€22.00m,3,4,1.4000000000000001,1.4,27.0
+Marcos Rocha,35,Right-Back,Palmeiras,€250k,0,2,0.30000000000000004,3.6,22.0
+Caetano,24,Centre-Back,Corinthians,€1.20m,0,0,0.1,0.1,4.0
+Marcelo Lomba,37,Goalkeeper,Palmeiras,€100k,0,0,0.0,0.0,0.0
+Igor Rabello,28,Centre-Back,Atlético Mineiro,€1.40m,0,1,0.30000000000000004,0.2,14.0
+Lyncon,19,Centre-Back,Vasco da Gama,€100k,1,0,0.2,0.0,0.0
+Joel Campbell,32,Second Striker,Atlético Goianiense,€375k,2,0,1.8,0.5,3.0
+Jhosefer,20,Central Midfield,Cruzeiro,€400k,0,0,0.0,0.0,1.0
+João Pedro,18,Centre-Forward,Vasco da Gama,€1.50m,1,4,1.3,2.1,24.0
+Kevin Serna,26,Right Winger,Fluminense,€5.00m,3,2,2.6,1.2,6.0
+Lucas Alario,31,Centre-Forward,Internacional,€350k,0,0,1.8,0.1,2.0
+Marlon Freitas,29,Defensive Midfield,Botafogo (RJ),€6.00m,0,5,1.6,4.4,33.0
+Matheus Donelli,22,Goalkeeper,Corinthians,€1.50m,0,0,0.0,0.0,0.0
+Felipe Anderson,31,Right Winger,Palmeiras,€2.50m,2,2,3.0,4.0,25.0
+Alan Kardec,35,Centre-Forward,Atlético Mineiro,€150k,0,0,1.0,0.5,3.0
+Walter,36,Goalkeeper,Cuiabá,€200k,0,0,0.0,0.0,0.0
+Esquerdinha,18,Left-Back,Fluminense,€3.50m,0,0,0.1,0.3,2.0
+Thiago Almada,23,Left Winger,Botafogo (RJ),€20.00m,1,2,3.4,2.7,7.0
+Matheus Nascimento,20,Centre-Forward,Botafogo (RJ),€2.50m,0,0,0.0,0.0,1.0
+Reinaldo,34,Left-Back,Grêmio,€400k,2,2,1.6,2.9000000000000004,19.0
+Juan Martín Lucero,32,Centre-Forward,Fortaleza,€900k,8,3,6.7,2.0,9.0
+Marcelo,35,Left-Back,Fluminense,,1,1,1.2000000000000002,1.6,15.0
+Matheuzinho,23,Right-Back,Corinthians,€6.00m,1,1,1.6,1.4000000000000001,28.0
+David Duarte,29,Centre-Back,Bahia,€1.20m,1,0,0.1,0.0,3.0
+Allano,29,Right Winger,Criciúma,€400k,1,2,2.0,1.8,23.0
+Raúl Cáceres,32,Right-Back,Vitória,€225k,0,3,0.1,2.4,16.0
+Bento,24,Goalkeeper,Athletico Paranaense,€9.00m,0,0,0.0,0.0,0.0
+Lucas Fernandes,26,Attacking Midfield,Cuiabá,€1.20m,1,1,0.7000000000000001,0.5,8.0
+Jonathan Calleri,30,Centre-Forward,São Paulo,€1.50m,5,4,5.4,1.2,8.0
+Thiago Maia,27,Defensive Midfield,Internacional,€3.00m,2,4,2.3,2.4,21.0
+Guillermo Varela,31,Right-Back,Flamengo,€1.20m,1,0,0.2,1.0,12.0
+Wallace,19,Central Midfield,Flamengo,€150k,0,0,0.0,0.0,0.0
+Rafael Elias,25,Centre-Forward,Cruzeiro,€3.20m,1,0,0.6,0.0,1.0
+Cacá,25,Centre-Back,Corinthians,€1.70m,4,1,4.2,0.2,44.0
+Rodrigo Sam,28,Centre-Back,Juventude,€350k,1,0,0.5,0.1,13.0
+Everton,27,Left Winger,Grêmio,,0,0,0.1,0.7000000000000001,5.0
+Agustín Marchesín,36,Goalkeeper,Grêmio,€700k,0,0,0.0,0.0,1.0
+Bernard,31,Left Winger,Atlético Mineiro,€750k,0,0,0.6000000000000001,1.8,7.0
+Patrick de Paula,24,Defensive Midfield,Botafogo (RJ),€3.00m,0,0,0.1,0.0,5.0
+André,22,Defensive Midfield,Fluminense,€28.00m,0,1,0.1,0.0,16.0
+Werik Popó,22,Centre-Forward,Juventude,€275k,0,0,0.2,0.2,1.0
+Lucas Di Yorio,27,Centre-Forward,Athletico Paranaense,€2.00m,3,0,3.8000000000000003,0.2,7.0
+Raphael Veiga,28,Attacking Midfield,Palmeiras,€10.00m,11,3,10.700000000000001,7.1000000000000005,17.0
+Matheusinho,26,Attacking Midfield,Criciúma,€1.50m,9,7,6.5,5.1,25.0
+Rodrigo Andrade,26,Defensive Midfield,Vitória,€600k,0,0,0.30000000000000004,0.30000000000000004,8.0
+Douglas Mendes,19,Centre-Back,Red Bull Bragantino,€1.20m,2,0,1.5999999999999999,0.0,16.0
+Gabriel Inocêncio,29,Right-Back,Juventude,€250k,0,1,0.0,0.7,7.0
+Hulk,37,Centre-Forward,Atlético Mineiro,€1.20m,10,5,8.5,2.0,8.0
+Marcelo Hermes,29,Left-Back,Criciúma,€1.00m,2,5,1.5,2.9,41.0
+Ramon,23,Left-Back,Cuiabá,€2.00m,2,1,0.7000000000000001,1.2,28.0
+Riquelme,18,Defensive Midfield,Red Bull Bragantino,€300k,0,0,0.0,0.0,1.0
+Rafael Borré,28,Centre-Forward,Internacional,€4.00m,9,3,13.1,0.8,13.0
+Vitor Eudes,26,Goalkeeper,Fluminense,€400k,0,0,0.0,0.0,0.0
+Fabrício Bruno,28,Centre-Back,Flamengo,€12.00m,1,0,0.6000000000000001,0.2,21.0
+Mateus Pasinato,32,Goalkeeper,Cuiabá,€150k,0,0,0.0,0.0,0.0
+Luciano Giménez,24,Centre-Forward,Cuiabá,€700k,0,0,0.1,0.0,1.0
+Thiago Borbas,22,Centre-Forward,Red Bull Bragantino,€4.00m,2,0,2.1,0.4,8.0
+Julimar,23,Left Winger,Athletico Paranaense,€1.50m,6,2,5.9,2.0,22.0
+Rodrigo Battaglia,32,Defensive Midfield,Atlético Mineiro,€800k,0,0,0.30000000000000004,0.0,30.0
+Diego Hernández,23,Left Winger,Botafogo (RJ),€1.80m,0,2,0.0,0.5,5.0
+Felipe Carballo,27,Central Midfield,Grêmio,€4.00m,0,0,0.4,0.0,5.0
+Nonato,26,Central Midfield,Fluminense,€1.20m,0,1,0.1,0.1,4.0
+Douglas Costa,33,Right Winger,Fluminense,€400k,0,0,0.0,0.30000000000000004,4.0
+Lucão,23,Goalkeeper,Red Bull Bragantino,€1.20m,0,0,0.0,0.4,0.0
+Fellipe Mateus,33,Attacking Midfield,Criciúma,€150k,3,0,1.7000000000000002,0.8,23.0
+Lucca Drummond,20,Centre-Forward,Internacional,,0,1,0.0,0.30000000000000004,0.0
+Fagner,34,Right-Back,Corinthians,€250k,0,1,0.1,2.2,8.0
+André Carrillo,33,Central Midfield,Corinthians,€900k,0,2,0.30000000000000004,2.1,11.0
+Lucas Silva,31,Defensive Midfield,Cruzeiro,€500k,1,1,0.8,1.3,28.0
+Bruno Lopes,16,Centre-Forward,Vasco da Gama,,0,0,0.0,0.0,0.0
+Rikelme,20,Left-Back,Cuiabá,€1.50m,0,0,0.0,0.1,6.0
+Rodrigo Nestor,23,Central Midfield,São Paulo,€7.00m,0,2,0.9,1.4000000000000001,7.0
+Nikão,31,Attacking Midfield,Athletico Paranaense,€500k,6,2,3.6,2.9,11.0
+Luciano Rodríguez,21,Centre-Forward,Bahia,€10.00m,6,1,6.0,1.1,7.0
+Lucas Sasha,34,Defensive Midfield,Fortaleza,€200k,0,0,0.5,1.5,35.0
+Matías Viña,26,Left-Back,Flamengo,€4.00m,0,0,0.2,0.6,5.0
+Gabriel Moscardo,18,Defensive Midfield,Corinthians,€7.00m,0,0,0.1,0.0,1.0
+Gabriel Souza,19,Goalkeeper,Vasco da Gama,,1,0,0.2,0.0,1.0
+Rildo,24,Attacking Midfield,Juventude,€750k,0,0,0.2,0.1,0.0
+Ricardo Mathias,18,Centre-Forward,Internacional,€9.00m,1,0,1.0999999999999999,0.4,1.0
+Adriano Martins,27,Centre-Back,Atlético Goianiense,€700k,0,0,1.2000000000000002,0.0,41.0
+Marcelinho,21,Right Winger,Juventude,€900k,2,3,1.7,0.3,3.0
+Max,22,Right Winger,Cuiabá,€200k,1,0,1.1,1.7,16.0
+Yerson Candelo,32,Right-Back,Criciúma,€250k,0,0,0.0,0.0,0.0
+Kayke,20,Left Winger,Corinthians,€800k,0,0,0.0,0.0,0.0
+Yago,29,Defensive Midfield,Bahia,,0,0,0.0,0.0,2.0
+Luciano Juba,24,Left-Back,Bahia,€11.00m,3,1,1.4000000000000001,4.5,24.0
+Gonzalo Mastriani,30,Centre-Forward,Athletico Paranaense,€1.20m,4,0,4.2,0.8999999999999999,8.0
+Germán Cano,36,Centre-Forward,Fluminense,€600k,4,0,5.3,1.2000000000000002,4.0
+Rafinha,38,Right-Back,São Paulo,,0,0,0.0,0.1,7.0
+Willean Lepo,27,Right-Back,Vitória,€700k,0,0,0.9,1.4,27.0
+Lázaro,22,Left Winger,Palmeiras,€2.00m,2,0,2.8000000000000003,0.5,8.0
+Alex Sandro,33,Left-Back,Flamengo,€1.50m,0,1,0.4,1.6,2.0
+Zé Ivaldo,27,Centre-Back,Cruzeiro,€2.50m,1,0,1.1,0.4,30.0
+João Moreira,20,Right-Back,São Paulo,€1.20m,0,0,0.0,0.0,2.0
+Fernandinho,38,Defensive Midfield,Athletico Paranaense,,2,3,1.6,2.5,11.0
+Gary Medel,36,Centre-Back,Vasco da Gama,€50k,0,0,0.0,0.0,1.0
+Guilherme Romão,26,Left-Back,Atlético Goianiense,€400k,1,3,1.6,2.8000000000000003,26.0
+Lorran,17,Attacking Midfield,Flamengo,€7.50m,1,1,2.0,0.9,6.0
+Rafael Ratão,28,Left Winger,Bahia,€3.00m,1,2,2.9000000000000004,0.6,5.0
+Cleiton,21,Goalkeeper,Flamengo,€3.00m,0,0,0.0,0.0,0.0
+Alexander Aravena,21,Left Winger,Grêmio,€4.00m,2,2,2.0,1.1,2.0
+Hugo Mallo,32,Right-Back,Internacional,€500k,1,0,0.2,0.0,4.0
+Felipe Vizeu,27,Centre-Forward,Criciúma,€350k,2,0,0.8,0.2,1.0
+José Cifuentes,25,Central Midfield,Cruzeiro,€4.50m,0,0,0.0,0.0,0.0
+Alerrandro,24,Centre-Forward,Vitória,€3.00m,15,4,11.0,2.6,29.0
+Victor Hugo,19,Attacking Midfield,Flamengo,€3.50m,0,0,0.2,0.2,4.0
+Newton,24,Defensive Midfield,Criciúma,€3.00m,1,1,1.5,0.8,15.0
+Nahuel Ferraresi,25,Centre-Back,São Paulo,€4.50m,1,1,0.30000000000000004,0.8,23.0
+Mateus Vital,26,Central Midfield,Cruzeiro,€3.50m,1,1,0.8,0.4,4.0
+Fausto Vera,24,Defensive Midfield,Corinthians,€4.50m,2,0,2.2,0.30000000000000004,20.0
+Pedrão,31,Centre-Back,Atlético Goianiense,€150k,0,0,0.2,0.1,9.0
+Michael,28,Left Winger,Flamengo,€3.00m,4,1,3.5,1.5,5.0
+David,28,Left Winger,Vasco da Gama,€1.50m,4,3,1.9,1.7,12.0
+Zé Guilherme,19,Left-Back,Grêmio,€400k,0,0,0.0,0.0,2.0
+Liziero,26,Central Midfield,São Paulo,€1.20m,1,0,0.0,0.0,4.0
+Anthoni,22,Goalkeeper,Internacional,€4.00m,0,0,0.0,0.0,0.0
+Pedro Geromel,38,Centre-Back,Grêmio,,0,0,0.30000000000000004,0.0,14.0
+Matheus Pereira,27,Attacking Midfield,Cruzeiro,€14.00m,8,7,5.1000000000000005,5.6,19.0
+James Rodríguez,32,Attacking Midfield,São Paulo,€2.00m,0,0,0.0,0.0,0.0
+Luiz Adriano,37,Centre-Forward,Vitória,,0,1,0.1,0.1,2.0
+Guga,25,Right-Back,Fluminense,€2.00m,0,1,0.0,0.1,6.0
+Bruno Uvini,32,Centre-Back,Vitória,€225k,0,0,0.1,0.0,6.0
+Renê,31,Left-Back,Internacional,€500k,0,0,0.7,0.6000000000000001,9.0
+Biel,23,Left Winger,Bahia,€4.50m,5,4,4.5,3.4,6.0
+Lima,27,Attacking Midfield,Fluminense,€2.50m,4,0,1.9000000000000001,0.30000000000000004,16.0
+Martin Braithwaite,33,Centre-Forward,Grêmio,€1.50m,7,2,5.2,1.2999999999999998,6.0
+Giuliano Galoppo,24,Central Midfield,São Paulo,€4.50m,0,0,0.9,0.4,4.0
+Gabriel Taliari,27,Centre-Forward,Juventude,€1.50m,2,2,3.5000000000000004,1.6,5.0
+Damián Suárez,35,Right-Back,Botafogo (RJ),€50k,0,1,0.0,1.6,12.0
+Lucas Barbosa,23,Right Winger,Juventude,€5.00m,7,2,6.1000000000000005,3.2,57.0
+Leandrinho,19,Left-Back,Vasco da Gama,€1.80m,1,1,0.0,0.0,10.0
+Jair,30,Defensive Midfield,Vasco da Gama,€1.80m,0,0,0.0,0.0,2.0
+Philipe Sampaio,29,Centre-Back,Atlético Goianiense,€250k,0,0,0.1,0.2,1.0
+Lucas Kal,28,Central Midfield,Atlético Goianiense,€1.30m,0,1,0.30000000000000004,0.5,13.0
+Erick Pulgar,30,Defensive Midfield,Flamengo,€5.00m,0,3,1.0,1.8,20.0
+Vitor Reis,18,Centre-Back,Palmeiras,€30.00m,1,0,0.5,0.0,13.0
+Guilherme Madruga,23,Defensive Midfield,Cuiabá,€700k,0,1,0.30000000000000004,0.6000000000000001,3.0
+Maxime Dominguez,28,Central Midfield,Vasco da Gama,€1.20m,1,0,0.2,0.1,5.0
+Breno,19,Defensive Midfield,Corinthians,,3,2,4.0,1.8,37.0
+Fabiano,18,Defensive Midfield,Botafogo (RJ),,0,0,0.0,0.0,0.0
+Lucas Piton,23,Left-Back,Vasco da Gama,€7.00m,1,5,0.5,3.5,24.0
+Railan,24,Right-Back,Cuiabá,€300k,0,3,0.30000000000000004,0.5,11.0
+Facundo Bernal,20,Defensive Midfield,Fluminense,€6.00m,0,0,0.4,0.1,9.0
+Filipe Augusto,30,Defensive Midfield,Cuiabá,€400k,0,0,0.30000000000000004,0.1,16.0
+Tomás Cuello,24,Left Winger,Athletico Paranaense,€6.00m,3,5,2.7,4.1,33.0
+Renato Augusto,36,Central Midfield,Fluminense,,1,1,0.6000000000000001,0.7,1.0
+Igor Coronado,31,Attacking Midfield,Corinthians,€1.70m,1,2,1.2,3.9000000000000004,27.0
+Raniele,27,Defensive Midfield,Corinthians,€3.00m,0,0,1.3,1.0,40.0
+Yeferson Rodallega,23,Left-Back,Atlético Goianiense,€200k,0,0,0.0,0.0,2.0
+Rodrigo Ely,30,Centre-Back,Grêmio,€1.00m,1,0,0.9,0.2,32.0
+Deyverson,32,Centre-Forward,Cuiabá,€400k,3,1,2.9,0.6,9.0
+Eros Mancuso,25,Right-Back,Fortaleza,€3.50m,1,2,0.5,0.6,12.0
+Maicon,35,Centre-Back,Vasco da Gama,€100k,1,0,0.7,0.4,45.0
+Marquinhos Gabriel,33,Attacking Midfield,Criciúma,€200k,0,0,0.5,1.8,11.0
+Fabricio Bustos,27,Right-Back,Internacional,€3.00m,1,1,0.7,0.7,10.0
+Mateus Claus,29,Goalkeeper,Juventude,€300k,0,0,0.0,0.0,0.0
+Matheus Henrique,26,Central Midfield,Cruzeiro,€4.50m,2,0,1.2000000000000002,0.2,17.0
+Mateo Zuleta,21,Left Winger,Atlético Goianiense,€800k,1,0,0.4,0.1,2.0
+Edson Carioca,27,Centre-Forward,Juventude,€1.50m,3,2,1.6,0.4,18.0
+Matheus Cunha,23,Goalkeeper,Flamengo,€2.00m,0,0,0.0,0.0,0.0
+Caíque,26,Goalkeeper,Grêmio,€600k,0,0,0.0,0.0,0.0
+Ignácio,27,Centre-Back,Fluminense,€2.00m,0,0,0.0,0.1,3.0
+Alex Santana,28,Central Midfield,Athletico Paranaense,€1.20m,0,0,0.8999999999999999,0.2,7.0
+William Gomes,18,Right Winger,São Paulo,€20.00m,3,1,1.2999999999999998,0.4,9.0
+Mathías Villasanti,27,Defensive Midfield,Grêmio,€5.00m,3,1,2.1,1.5,41.0
+Ángel Romero,31,Right Winger,Corinthians,€900k,5,4,5.4,2.7,15.0
+Isaque,17,Attacking Midfield,Fluminense,€8.00m,0,0,0.0,0.0,0.0
+Paulo Vitor,19,Defensive Midfield,Atlético Mineiro,€700k,0,0,0.0,0.1,9.0
+Denilson,23,Central Midfield,Cuiabá,€2.00m,0,3,0.9,2.2,14.0
+André Silva,26,Centre-Forward,São Paulo,€4.00m,7,2,3.9,0.8,18.0
+Pedro Raul,27,Centre-Forward,Corinthians,€4.00m,0,0,1.4,0.30000000000000004,4.0
+Matheus Martins,21,Left Winger,Botafogo (RJ),€6.00m,2,0,1.5,1.0,7.0
+Lucas Belezi,21,Centre-Back,Athletico Paranaense,€1.20m,1,0,0.8,0.1,12.0
+Léo Naldi,22,Defensive Midfield,Vitória,€600k,0,0,0.30000000000000004,0.1,21.0
+Robert Arboleda,32,Centre-Back,São Paulo,€600k,2,0,1.2000000000000002,0.5,28.0
+Matheus Fernandes,25,Defensive Midfield,Red Bull Bragantino,€2.00m,1,1,0.5,0.6,17.0
+Daniel Sales,18,Right-Back,Flamengo,,0,0,0.0,0.0,0.0
+Kauã Elias,18,Centre-Forward,Fluminense,€15.00m,5,2,4.5,1.5,6.0

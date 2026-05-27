@@ -42,3 +42,5 @@ colunas_uteis = [
 df_ml1 = df_final[colunas_uteis].copy()
 df_ml1['Idade'] = pd.to_numeric(df_ml1['Idade'], errors='coerce')
 df_ml1['Idade'] = df_ml1['Idade'].astype('Int64') 
+df_ml1.to_csv("dados_jogadores.csv", index=False)
+ 
